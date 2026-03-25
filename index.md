@@ -8,7 +8,7 @@ header-subtitle: Biographies
 header-position: 35% center
 ---
 
-# Women, Europe, and Antifascism in the Early 20th Century A New Edit
+# Women, Europe, and Antifascism in the Early 20th Century
 
 This website explores the biographies and histories of prominent European and American women antifascist activists from the early 20th century. 
 
