@@ -54,7 +54,7 @@ Kollontai also discusses the idea of possessing not just a partners physical fai
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="(images/alexandra-kollontai-fireplace.jpg)"
+  image-path="images/alexandra-kollontai-fireplace.jpg"
   image-position="right"
   image-width="45%"
   caption="Kollontai."
