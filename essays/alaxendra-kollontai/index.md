@@ -61,45 +61,31 @@ Kollontai also discusses the idea of possessing not just a partners physical fai
    text=kollontai_text 
 %}
 
-## The Chemistry of Heat and Culture
+## Committed Body and Mind
 
-{% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
+From the moment Kollontai joined the revolutionary movement to her death she worked. The amount of work she accomplished is staggering as she places it first above all else and with the never-ending struggle of liberation of workers worldwide, she had a task in front of her that would never have a deadline. Kollontai’s eye-opening experience was to the Krengolm textile factory. 
 
-What makes chiles remarkable isn't just their flavor, but their heat—the capsaicin that creates that burning sensation. This isn't taste in the traditional sense; it's pain. We've evolved to eat chiles despite the pain, even to crave it.
+This was her first view of what the lives of the working populace in Russia was like and how dreadful it was compared to her relatively privileged upbringing and current life. However when she did join the first revolutionary movement she came to a realization of how little women’s rights were cared about. With this realization she simply worked harder and more. She wrote political writings and becoming an extremely popular speaker. 
 
-There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
-
-
-## Modern Variations and Challenges
-
-Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
-
-But there's also a renaissance. Heirloom chile varieties are being preserved and celebrated. New restaurants are treating chiles with the seriousness of a wine vintage—specific growing regions, specific varieties, specific preparation methods.
-
-The carousel below shows the diversity of modern chile culture:
-
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
-{% include images/carousel.html id="chile-types" images=images_list %}
-
-**The varieties tell a story:**
-- Pueblo chiles: small, early, adapted to high elevations
-- Spanish varieties: brought by colonists, adapted over centuries
-- Hybrid modern varieties: bred for consistency and market appeal
-- Heirloom preservation varieties: grown specifically to maintain genetic diversity
-
-Each represents a different moment in the chile's journey from wild plant to cultural icon.
+Eventually her writings and speeches caught up to her and she was forced to flee Russia due to the police attempting to arrest her. During this time she lived throughout Europe as well as America until Czarism was overthrown. Even though she was now away from her home, with her son in tow she continued her work. She helped with different communist and socialist groups within the countries she lived in during this time all the while still writing for different illegal and legal publications in Russia.
 
 
-## The Future of Southwest Identity
+## The Threat of Freedom
 
-As the Southwest changes—becoming more urban, more diverse, more connected to global food systems—what happens to the chile? Will it remain a marker of regional identity, or become just another ingredient?
+Within both fascist Italy, fascist Spain, and nazi Germany one major theme present is that of control. For the entire country the control of ideas is important. Through propaganda the idea of being better and deserving of ownership of both the country and the world is necessary. For women specifically this control goes a step farther to physical. The disallowing of reproductive rights as well as the right to work force women to be financially dependent on men. The restriction of marriage also controls the population even further. 
 
-The answer might be both. Chiles have always adapted. They adapted to every continent, every climate, every cuisine that adopted them. They adapted from wild plants to cultivated varieties to industrial agriculture to heirloom preservation. They've been spice, currency, medicine, ritual object, and comfort food.
+Alexandra Kollontai then represents what these ideologies would see as the opposite of their ideal woman. Kollontai wrote about and refused to bend to the male dominance so many tried to impose on her; that “male” dominance being integral for fascism. She refused to bend to the will of others and is the perfect representation of antifascism as an ingrained behavior and not a choice that must be consciously made. 
 
-Maybe that adaptability is the real story. Not the origin in Mexico or the spread through the world or the obsession in New Mexico, but the fact that a plant can be shaped and reshaped by human culture while still remaining fundamentally itself.
-
-The heat remains. The flavor remains. The chile endures.
+Kollontai, even before fascism had begun its spread, lived a life resisting it and the roots it grew from. That is why Kollontai in her representation of a free and emancipated woman is such a threat to fascism as a thought and women like her had to be removed or subjugated in these countries before fascism could truly take.
 
 ---
 
-**Further exploration:** Taste different chile varieties if you can—fresh, roasted, dried. Visit a chile festival if you're in the Southwest during harvest season. Ask family members about their chile traditions. The story of chiles is also the story of regional identity, of cultural pride, and of how food carries history in its flavor.
+**Bibliography:** 
+Farnsworth, Beatrice Brodsky. “Bolshevism, the Woman Question, and Aleksandra Kollontai.” The American Historical Review 81, no. 2 (April 1976): 292. https://doi.org/10.2307/1851172.
+
+Kollontai, Alexandra. “Sexual Relations and the Class Struggle,” Translated by Alix Holt, 1921. https://www.marxists.org/archive/kollonta/1921/sex-class-struggle.htm.
+
+ Kollontai, Alexandra The Autobiography of a Sexually Emancipated Communist Woman. Translated by Salvator Attansio, 2001. https://www.marxists.org/archive/kollonta/1926/autobiography.htm.
+
+Kollontai, Alexandra . “Communism and the Family.” Translated by Alix Holt,  www.marxists.org, 1920. https://www.marxists.org/archive/kollonta/1920/communism-family.htm.
+
