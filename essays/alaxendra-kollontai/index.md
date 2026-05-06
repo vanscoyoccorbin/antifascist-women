@@ -25,7 +25,7 @@ Kollontai’s mother in fear for both Kollontai’s health and “liberal influe
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/!images/alexandra-kollontai-1888.jpg"
+  image-path="images/alexandra-kollontai-1888.jpg"
   image-position="left"
   image-width="48%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
