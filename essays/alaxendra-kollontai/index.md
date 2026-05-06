@@ -51,8 +51,6 @@ Kollontai describes these two reasons as the main issue stemming from the psycho
 {% capture chile_nm_text %}
 
 Kollontai also goes into a half page portion where she writes on how when two people enter a relationship they become insensitive to 'a third person'. Within this portion Kollontai goes into the idea of two new lovers quickly decide what was once theirs becomes each other’s and put themselves between each other’s business that before had not involved them.
-
-Kollontai also discusses the idea of possessing not just a partners physical faithfulness, but an emotional one as well; this idea of emotional faithfulness she determines to be a new creation with the system of capitalism. These writing can be seen as a reflection of Kollontai’s personal experience. Within her life she had left her first husband due to his feeling that her move to committing more towards the revolutionary movement was a betrayal to him. All that this caused in her however was a new conviction to place her work first and all else second.
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -62,6 +60,12 @@ Kollontai also discusses the idea of possessing not just a partners physical fai
   caption="Kollontai."
   text=chile_nm_text
 %}
+
+
+
+Kollontai also discusses the idea of possessing not just a partners physical faithfulness, but an emotional one as well; this idea of emotional faithfulness she determines to be a new creation with the system of capitalism. These writing can be seen as a reflection of Kollontai’s personal experience. Within her life she had left her first husband due to his feeling that her move to committing more towards the revolutionary movement was a betrayal to him. All that this caused in her however was a new conviction to place her work first and all else second.
+
+
 
 ## Committed Body and Mind
 
