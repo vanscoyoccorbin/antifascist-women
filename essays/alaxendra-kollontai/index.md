@@ -32,7 +32,7 @@ Kollontai’s mother in fear for both Kollontai’s health and “liberal influe
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"A child had not been able to draw the bonds of my marriage tighter. I still loved my husband, but the happy life of a housewife and spouse became for me a "cage."\"-Kolontai in her Autobiography" %}
+{% include typography/pullquote.html text="\"A child had not been able to draw the bonds of my marriage tighter. I still loved my husband, but the happy life of a housewife and spouse became for me a 'cage'.\"-Kolontai in her Autobiography" %}
 
 When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
 
