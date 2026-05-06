@@ -40,15 +40,15 @@ Kollontai’s mother in fear for both Kollontai’s health and “liberal influe
 
 To write about Alexandra Kollontai and her achievements without mention of her most numerous written topic of love and the desire of it is a fruitless effort. Kollontai’s numerous works dive into every aspect of the idea of marriage, love, and what place these institutions and feelings have within the revolutionary’s mind as well as the society being built. Kollontai’s first love was according to her “out of a great passion” and “against her parents’ wishes”. This first love of Kollontai’s was her cousin, and whom she had her only son as well as the last name she kept to the end of her life. This first marriage was a formative experience when it came to Kollontai’s views on love and relationships with how they related to both the liberation of women and workers in general.
 
-Within Kollontai’s “Sexual Relations and the Class Struggle” she examines what she refers to as the “sexual problem”. Similar to many of her writings Kollontai focuses on specific social issues that she considers needing solved in the creation of the new society that the new Soviet Union experiment was creating. Within “Sexual Relations and the Class Struggle” Kollontai half examines where old bourgeoisie ideas of individuality may belong within a communist society and half vents on her issues with modern day relationships. The entire article feels extremely personal and resembling a conversation with Kollontai herself. Kollontai identifies two main causes for this sexual crisis:
+Within Kollontai’s 'Sexual Relations and the Class Struggle' she examines what she refers to as the “sexual problem”. Similar to many of her writings Kollontai focuses on specific social issues that she considers needing solved in the creation of the new society that the new Soviet Union experiment was creating. Within “Sexual Relations and the Class Struggle” Kollontai half examines where old bourgeoisie ideas of individuality may belong within a communist society and half vents on her issues with modern day relationships. The entire article feels extremely personal and resembling a conversation with Kollontai herself. Kollontai identifies two main causes for this sexual crisis:
 
-The idea of “possessing” the married partner;
+The idea of 'possessing' the married partner;
 
 The belief that the two sexes are unequal, that they are of unequal worth in every way, in every sphere, including the sexual sphere.
 
 Kollontai describes these two reasons as the main issue stemming from the psychology of modern man. These two points that Kollontai argues are direct issues that must be addressed is in stark contrast to Fascism and Nazism where they are both integral to holding them together and ensuring that men know they are better and worth more. 
 
-Kollontai also goes into a half page portion where she writes on how when two people enter a relationship they become insensitive to “a third person”. Within this portion Kollontai goes into the idea of two new lovers quickly decide what was once theirs becomes each other’s and put themselves between each other’s business that before had not involved them.
+Kollontai also goes into a half page portion where she writes on how when two people enter a relationship they become insensitive to 'a third person'. Within this portion Kollontai goes into the idea of two new lovers quickly decide what was once theirs becomes each other’s and put themselves between each other’s business that before had not involved them.
 
 Kollontai also discusses the idea of possessing not just a partners physical faithfulness, but an emotional one as well; this idea of emotional faithfulness she determines to be a new creation with the system of capitalism. These writing can be seen as a reflection of Kollontai’s personal experience. Within her life she had left her first husband due to his feeling that her move to committing more towards the revolutionary movement was a betrayal to him. All that this caused in her however was a new conviction to place her work first and all else second.
 {% endcapture %}
@@ -81,11 +81,11 @@ Kollontai, even before fascism had begun its spread, lived a life resisting it a
 ---
 
 **Bibliography:** 
-Farnsworth, Beatrice Brodsky. “Bolshevism, the Woman Question, and Aleksandra Kollontai.” The American Historical Review 81, no. 2 (April 1976): 292. https://doi.org/10.2307/1851172.
+Farnsworth, Beatrice Brodsky. 'Bolshevism, the Woman Question, and Aleksandra Kollontai.' The American Historical Review 81, no. 2 (April 1976): 292. https://doi.org/10.2307/1851172.
 
-Kollontai, Alexandra. “Sexual Relations and the Class Struggle,” Translated by Alix Holt, 1921. https://www.marxists.org/archive/kollonta/1921/sex-class-struggle.htm.
+Kollontai, Alexandra. 'Sexual Relations and the Class Struggle,' Translated by Alix Holt, 1921. https://www.marxists.org/archive/kollonta/1921/sex-class-struggle.htm.
 
  Kollontai, Alexandra The Autobiography of a Sexually Emancipated Communist Woman. Translated by Salvator Attansio, 2001. https://www.marxists.org/archive/kollonta/1926/autobiography.htm.
 
-Kollontai, Alexandra . “Communism and the Family.” Translated by Alix Holt,  www.marxists.org, 1920. https://www.marxists.org/archive/kollonta/1920/communism-family.htm.
+Kollontai, Alexandra . 'Communism and the Family.' Translated by Alix Holt,  www.marxists.org, 1920. https://www.marxists.org/archive/kollonta/1920/communism-family.htm.
 
