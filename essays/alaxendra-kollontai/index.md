@@ -1,10 +1,10 @@
 ---
-title: "Anti-Fascist Biography 1"
+title: "Alexandra Kollontai"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
 position: 1
-summary: A biography of an anti-fascist woman in the early 20th century.
+summary: A biography of Alexandra Kollontai, a Communist and Femenist leader.
 ---
 
 # Biography 1
