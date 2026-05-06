@@ -54,13 +54,12 @@ Kollontai also discusses the idea of possessing not just a partners physical fai
 {% endcapture %}
 
 {% include images/figure-wrap.html 
-  image-path="images/alexandra-kollontai-aura-farming-pic.jpg" 
-  image-position="right" 
-  image-width="45%" 
-  caption="Kollontai" 
-  text=chile_origins_text 
+   image-path="images/alexandra-kollontai-aura-farming-pic.jpg" 
+   image-position="right" 
+   image-width="45%" 
+   caption="Kollontai" 
+   text=kollontai_text 
 %}
-
 
 ## The Chemistry of Heat and Culture
 
