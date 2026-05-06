@@ -7,18 +7,21 @@ position: 1
 summary: A biography of Alexandra Kollontai, a Communist and Femenist leader.
 ---
 
-# Biography 1
+# A Mad Female Bolshevik
 
-Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
+Alexandra Kollontai was one of the leading feminists within the socialist movement of Russia. Throughout her life she pushed for women’s rights as well as the rights of workers everywhere from Sweden to The United States of America. Much of Kollontai’s journey is documented throughout her works as well as an autobiography “The Autobiography of a Sexually Emancipated Communist Woman”. 
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
+Although she was such a leading role in the male dominated space of the leftist movements of the last 1910s and early 1920s, she managed to maintain a refusal to back down of being both her own person and a woman. Kollontai displays a journey of discovery for both her own personal intimate life as well as a fervor to right injustices and displays the integrity required to achieve it. To the rise of fascism at the end of the first world-war, Alexandra Kollontai represented the opposite of what the fascists wished for a woman to be. A communist, unowned, and intelligent woman who represented all of the threats the new shaky regimes wished to squash out of society. 
 
-## Wild Origins and Sacred Uses
+## Rebelling Against the Status Quo
 
 {% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
+Alexandra Kollontai was born Alexandra Domontovich to her parents who were apart of the old Russian Nobility. She was the youngest and subsequently the most spoiled of her siblings and although her family. When Kollontai wrote of her family’s financial being she described her parents as “well-to-do” and “no luxury in the house” but she did not know the meaning of “privation”. 
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
+Even with this privileged upbringing Kollontai still recounts a sense of rebelling against injustices throughout her childhood. Although she had begun to witness these differences between how she was treated and other children her exposure to these injustices stayed limited due to her being homeschooled as opposed to being sent off to school. 
+
+
+Kollontai’s mother in fear for both Kollontai’s health and “liberal influences” kept Kollontai home and under the tutelage of Madame Marie Strakhova; a tutor who had connections with revolutionary circles in Russia. Under the tutelage of Madame Strakhova, Kollontai was able to take the qualifying examinations to gain admittance into university when she was only sixteen. After this beginning of Kollontai’s freedom her rebellion continued against the social norms she was expected to uphold. Her first major rebellion would be against her parents wishes of an arranged marriage.
 {% endcapture %}
 
 {% include images/figure-wrap.html
