@@ -58,7 +58,7 @@ Kollontai also discusses the idea of possessing not just a partners physical fai
    image-position="right" 
    image-width="45%" 
    caption="Kollontai" 
-   text="chile_origins_text" 
+   text=chile_origins_text 
 %}
 
 
