@@ -34,34 +34,29 @@ Kollontai’s mother in fear for both Kollontai’s health and “liberal influe
 
 {% include typography/pullquote.html text="\"A child had not been able to draw the bonds of my marriage tighter. I still loved my husband, but the happy life of a housewife and spouse became for me a 'cage'.\"-Kolontai in her Autobiography" %}
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
 
 
-## The Global Circulation
+## The Desires of the Heart
 
-The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
+To write about Alexandra Kollontai and her achievements without mention of her most numerous written topic of love and the desire of it is a fruitless effort. Kollontai’s numerous works dive into every aspect of the idea of marriage, love, and what place these institutions and feelings have within the revolutionary’s mind as well as the society being built. Kollontai’s first love was according to her “out of a great passion” and “against her parents’ wishes”. This first love of Kollontai’s was her cousin, and whom she had her only son as well as the last name she kept to the end of her life. This first marriage was a formative experience when it came to Kollontai’s views on love and relationships with how they related to both the liberation of women and workers in general.
 
-This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
+Within Kollontai’s “Sexual Relations and the Class Struggle” she examines what she refers to as the “sexual problem”. Similar to many of her writings Kollontai focuses on specific social issues that she considers needing solved in the creation of the new society that the new Soviet Union experiment was creating. Within “Sexual Relations and the Class Struggle” Kollontai half examines where old bourgeoisie ideas of individuality may belong within a communist society and half vents on her issues with modern day relationships. The entire article feels extremely personal and resembling a conversation with Kollontai herself. Kollontai identifies two main causes for this sexual crisis:
 
-The Southwest, however, kept them close. When Spanish settlers began colonizing New Mexico in the late 1500s, they brought cultivated chile varieties with them. These adapted to the high desert climate, the intense sun, the seasonal rains. Over centuries, New Mexico developed its own distinctive chile varieties.
+The idea of “possessing” the married partner;
 
+The belief that the two sexes are unequal, that they are of unequal worth in every way, in every sphere, including the sexual sphere.
 
-## The New Mexican Obsession
+Kollontai describes these two reasons as the main issue stemming from the psychology of modern man. These two points that Kollontai argues are direct issues that must be addressed is in stark contrast to Fascism and Nazism where they are both integral to holding them together and ensuring that men know they are better and worth more. 
 
-{% capture chile_nm_text %}
-By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
+Kollontai also goes into a half page portion where she writes on how when two people enter a relationship they become insensitive to “a third person”. Within this portion Kollontai goes into the idea of two new lovers quickly decide what was once theirs becomes each other’s and put themselves between each other’s business that before had not involved them.
 
-Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
-
-When New Mexico became a U.S. state in 1912, one of its first instincts was to assert its uniqueness through food. Chile festivals emerged. Chile-growing competitions began. The chile became a symbol of regional pride—fiercer and more protective than almost any other ingredient anywhere.
+Kollontai also discusses the idea of possessing not just a partners physical faithfulness, but an emotional one as well; this idea of emotional faithfulness she determines to be a new creation with the system of capitalism. These writing can be seen as a reflection of Kollontai’s personal experience. Within her life she had left her first husband due to his feeling that her move to committing more towards the revolutionary movement was a betrayal to him. All that this caused in her however was a new conviction to place her work first and all else second.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="images/alexandra-kollontai-aura-farming-pic.jpg"
   image-position="right"
   image-width="45%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
-  text=chile_nm_text
 %}
 
 
