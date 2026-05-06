@@ -1,8 +1,8 @@
 ---
 title: "Alexandra Kollontai"
 layout: scrollstory
-header-image: images/figure_1.jpg
-thumbnail: images/figure_1.jpg
+header-image: images/alexandra-kollontai-main-image.jpg
+thumbnail: images/alexandra-kollontai-main-image.jpg
 position: 1
 summary: A biography of Alexandra Kollontai, a Communist and Femenist leader.
 ---
